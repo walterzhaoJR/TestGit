@@ -1,0 +1,20 @@
+From b9cbb6276951cc08ee4e4447cf170de244c3b4d1 Mon Sep 17 00:00:00 2001
+From: walterzhaoJR <519362600@qq.com>
+Date: Sun, 24 Dec 2017 09:57:22 +0000
+Subject: [PATCH] add messgae
+
+---
+ zx | 2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/zx b/zx
+index 1235a03..6161814 100644
+--- a/zx
++++ b/zx
+@@ -1 +1,3 @@
+ i am walter you can call me zx
++
++add messgae
+-- 
+1.8.3.1
+
